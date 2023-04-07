@@ -8,7 +8,8 @@ It is programmed with C#.
 
 # How To Play PuzzleGame?
 - First, you need to download the zip file of the project. Then, you can extract it to another file.
-![KOD İNDİRME GÖRSELİ](https://user-images.githubusercontent.com/75219592/230428259-51c06fe4-4498-4118-aa58-baccadf527d3.PNG)
+![dosyaİndirme](https://user-images.githubusercontent.com/75219592/230614251-3f5c8032-f424-45a7-8d5c-05af2d375bd8.PNG)
+
 
 - If you did the previous instruction, you can go to next step.  For running the project, you must have installed Visual Studio program on your computer. We recommend you to use 2019 or 2022 version of Visual Studio to see and run this game smoothly. You can open the file of project with Visual Studio and go on.
 - After installing and opening the project, you can start the project with the start button located above the ide. 
