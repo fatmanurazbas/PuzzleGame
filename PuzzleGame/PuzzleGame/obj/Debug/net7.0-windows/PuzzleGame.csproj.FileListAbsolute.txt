@@ -1,0 +1,17 @@
+E:\PuzzleGame Github\PuzzleGame\PuzzleGame\bin\Debug\net7.0-windows\PuzzleGame.exe
+E:\PuzzleGame Github\PuzzleGame\PuzzleGame\bin\Debug\net7.0-windows\PuzzleGame.deps.json
+E:\PuzzleGame Github\PuzzleGame\PuzzleGame\bin\Debug\net7.0-windows\PuzzleGame.runtimeconfig.json
+E:\PuzzleGame Github\PuzzleGame\PuzzleGame\bin\Debug\net7.0-windows\PuzzleGame.dll
+E:\PuzzleGame Github\PuzzleGame\PuzzleGame\bin\Debug\net7.0-windows\PuzzleGame.pdb
+E:\PuzzleGame Github\PuzzleGame\PuzzleGame\obj\Debug\net7.0-windows\PuzzleGame.csproj.AssemblyReference.cache
+E:\PuzzleGame Github\PuzzleGame\PuzzleGame\obj\Debug\net7.0-windows\PuzzleGame.Form1.resources
+E:\PuzzleGame Github\PuzzleGame\PuzzleGame\obj\Debug\net7.0-windows\PuzzleGame.csproj.GenerateResource.cache
+E:\PuzzleGame Github\PuzzleGame\PuzzleGame\obj\Debug\net7.0-windows\PuzzleGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\PuzzleGame Github\PuzzleGame\PuzzleGame\obj\Debug\net7.0-windows\PuzzleGame.AssemblyInfoInputs.cache
+E:\PuzzleGame Github\PuzzleGame\PuzzleGame\obj\Debug\net7.0-windows\PuzzleGame.AssemblyInfo.cs
+E:\PuzzleGame Github\PuzzleGame\PuzzleGame\obj\Debug\net7.0-windows\PuzzleGame.csproj.CoreCompileInputs.cache
+E:\PuzzleGame Github\PuzzleGame\PuzzleGame\obj\Debug\net7.0-windows\PuzzleGame.dll
+E:\PuzzleGame Github\PuzzleGame\PuzzleGame\obj\Debug\net7.0-windows\refint\PuzzleGame.dll
+E:\PuzzleGame Github\PuzzleGame\PuzzleGame\obj\Debug\net7.0-windows\PuzzleGame.pdb
+E:\PuzzleGame Github\PuzzleGame\PuzzleGame\obj\Debug\net7.0-windows\PuzzleGame.genruntimeconfig.cache
+E:\PuzzleGame Github\PuzzleGame\PuzzleGame\obj\Debug\net7.0-windows\ref\PuzzleGame.dll
