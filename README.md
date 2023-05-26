@@ -12,7 +12,7 @@ It is programmed with C#.
 
 
 - If you did the previous instruction, you can go to next step.  For running the project, you must have installed Visual Studio program on your computer. We recommend you to use 2019 or 2022 version of Visual Studio to see and run this game smoothly. You can open the file of project with Visual Studio and go on.
-- After installing and opening the project, you can start the project with the start button located above the ide. 
+- After installing and opening the project, you can start the project with the start button located above the ide.. 
 - Here is the user interface. It includes a name input space, current score and click count and play time fields in the below. 
 - At the right side, there is a field that users are able to load picture and it divides this picture into 16 equal parts and brings it mixed in the empty space in the middle. 
 - The 'Karıştır' button provides the mixing pieces again and 'Çözüm' button shows the solution of the puzzle. 
